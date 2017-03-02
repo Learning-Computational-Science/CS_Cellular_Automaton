@@ -19,5 +19,5 @@ some suggested resources for understanding classes, inheritance and NumPy arrays
  using CA methods.  This simulation inherits cellular automaton functionality from
  CAGrid through inheritance.
  - [Heat Transfer Code](HTGrid.py) to support the above notebook.
- - [Assignments Folder](Assignments) needs to be populated with assignments.
+ - [Assignments Folder](Assignments) describes several exercises and projects.
  ![Game of Life Image](GOL.png)
